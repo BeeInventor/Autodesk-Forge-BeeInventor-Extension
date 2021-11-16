@@ -10,9 +10,9 @@ Then, use `http://localhost:3000/api/forge/callback/oauth` as the Callback URL, 
 ## Create environtment with following variables :
 
 ```sh
-FORGE_CLIENT_ID=<<Your Forge Client ID>>
-FORGE_CLIENT_SECRET=<<Your Forge Client ID>>
-PORT_SERVER=3001
+FORGE_CLIENT_ID="Your Forge Client ID"
+FORGE_CLIENT_SECRET="Your Forge Client ID"
+PORT=3000
 FORGE_CALLBACK_URL=http://localhost:3000/api/forge/callback/oauth
 ```
 
