@@ -1,5 +1,7 @@
 # Autodesk-Forge-BeeInventor-Extension
 
+![demo](https://github.com/suryakumara/Autodesk-Forge-BeeInventor-Extension/blob/main/bee.gif)
+
 ## Setup
 
 Visit [Autodesk Forge Portal](https://forge.autodesk.com/), sign up and create an app.
