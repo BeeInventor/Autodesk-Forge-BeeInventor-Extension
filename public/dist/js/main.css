@@ -44,7 +44,6 @@
 
 .input-position {
   display: inline-block;
-  color: #000000;
   height: 15px;
   width: 200px;
   background: white;
@@ -194,5 +193,6 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 
 /*# sourceMappingURL=main.css.map*/
