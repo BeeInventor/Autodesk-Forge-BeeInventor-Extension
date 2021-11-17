@@ -1,6 +1,6 @@
 # Autodesk-Forge-BeeInventor-Extension
 
-![demo](https://github.com/suryakumara/Autodesk-Forge-BeeInventor-Extension/blob/main/bee.gif)
+![demo](https://github.com/BeeInventor/Autodesk-Forge-BeeInventor-Extension/blob/main/bee-extension.gif)
 
 ## Setup
 
